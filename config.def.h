@@ -6,6 +6,15 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Cascadia Mono:pixelsize=18:antialias=true:autohint=true";
+/* Spare fonts */
+static char *font2[] = {
+  "DejaVu Sans Mono:pixelsize=20:antialias=true:autohint=true",
+  "SauceCodePro Nerd Font:pixelsize=13:antialias=true:autohint=true",
+  "WenQuanYi Micro Hei:pixelsize=18:antialias=true:autohint=true",
+  "JoyPixels:pixelsize=18:antialias=true:autohint=true",
+  "Noto Color Emoji:pixelsize=18:antialias=true:autohint=true",
+};
+
 static int borderpx = 2;
 
 /*
