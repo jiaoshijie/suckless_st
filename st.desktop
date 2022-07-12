@@ -1,0 +1,8 @@
+[Desktop Entry]
+  Name=st
+  Icon=~/.local/share/icons/st.png
+  GenericName=Simple Terminal
+  Comment=Simple Terminal
+  Exec=/usr/local/bin/st
+  Type=Application
+  Categories=System Tools
